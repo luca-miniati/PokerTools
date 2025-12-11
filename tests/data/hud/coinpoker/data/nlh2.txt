@@ -1,0 +1,46 @@
+CoinPoker Hand #342079030: Hold'em No Limit (0.01/0.02) 2025/12/10 11:01:04 GMT
+Table 'NL ₮2 V' 7-max Seat #7 is the button
+Seat 1: 23neverfold (2.12 in chips)
+Seat 2: facebook540 (1.93 in chips)
+Seat 3: Udantang01 (2.06 in chips)
+Seat 4: qister (6.64 in chips)
+Seat 5: MokiMoki (0.94 in chips)
+Seat 6: tomylodden (1.27 in chips)
+Seat 7: 23409m (2.16 in chips)
+23neverfold: posts small blind 0.01
+facebook540: posts big blind 0.02
+*** HOLE CARDS ***
+Dealt to 23409m [4d 2s]
+Udantang01: folds
+qister: raises 0.03 to 0.05
+MokiMoki: calls 0.05
+tomylodden: folds
+23409m: folds
+23neverfold: folds
+facebook540: folds
+*** FLOP *** [2c 9s 5h]
+qister: checks
+MokiMoki has timed out
+MokiMoki activated time-bank (59 seconds)
+MokiMoki: bets 0.06
+qister: raises 0.2 to 0.26
+MokiMoki: folds
+Uncalled bet (0.2) returned to qister
+qister collected 0.24 from pot
+qister: doesn't show hand
+*** SUMMARY ***
+Total pot 0.25 | CC 0.01
+Board [ 2c 9s 5h ]
+Game ended: 2025/12/10 11:02:08 GMT
+Seat 1: 23neverfold (small blind) folded before Flop
+Seat 2: facebook540 (big blind) folded before Flop
+Seat 3: Udantang01 folded before Flop (didn't bet)
+Seat 4: qister collected (0.24)
+Seat 5: MokiMoki folded on the Flop
+Seat 6: tomylodden folded before Flop (didn't bet)
+Seat 7: 23409m (button) folded before Flop (didn't bet)
+*** RNG ***
+phrase:  y   #      t n  K^     eF. u H 
+cards: (2c) (9s) (5h) 4h 5d 7h Kd 8d 7s Kh Td 5s 6h 7c 8h Tc Qd 2d Qc 3c 8c 9d 9h 7d Ad Qh 6s Ah Ts 5c 4c Kc Qs 3d XX XX XX XX
+player_cards: 6 4d 2s
+

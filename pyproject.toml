@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pokertools"
+version = "0.1.0"
+authors = [
+  { name="Luca", email="luca.miniati@gmail.com" }
+]
+description = "Poker tools library"
+requires-python = ">=3.11"
+dependencies = []

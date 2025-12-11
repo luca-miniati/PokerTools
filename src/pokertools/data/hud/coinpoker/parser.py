@@ -1,4 +1,4 @@
-from re import compile
+from re import compile, DOTALL, MULTILINE
 from collections import defaultdict
 from dataclasses import dataclass
 from operator import add
@@ -10,12 +10,12 @@ from pokerkit.utilities import UNMATCHABLE_PATTERN, parse_time
 class CoinPokerParser(REParser):
     "A class for CoinPoker hand history parser."
 
-    HAND = compile(r'CoinPoker Hand #\d+.*')
+    HAND = compile(r'^CoinPoker Hand #\d+.*?(?=^\n{2,})', DOTALL | MULTILINE)
     FINAL_SEAT = compile(r' Seat #(?P<final_seat>\d+) is the button')
-    VARIANT = compile(r'CoinPoker Hand #\d+: (?P<variant>) \(')
+    VARIANT = compile(r"CoinPoker Hand #\d+: .*(?P<variant>Hold'em No Limit|Omaha Pot Limit).*\(")
     VARIANTS = { "Hold'em No Limit": 'NT', 'Omaha Pot Limit': 'PLO' }
     SEATS = compile(r'Seat (?P<seat>\d+): (?P<player>.+) \(\D?[0-9.,]+ in chips\)')
-    ANTE_POSTING = compile(r'(?P<player>.+): posts the ante \D?(?P<blind_or_straddle>[0-9.,]+)')
+    ANTE_POSTING = compile(r'(?P<player>.+): posts the ante \D?(?P<ante>[0-9.,]+)')
     BLIND_OR_STRADDLE_POSTING = compile(r'(?P<player>.+): posts (small|big) blind \D?(?P<blind_or_straddle>[0-9.,]+)')
     STARTING_STACKS = compile(r'Seat \d+: (?P<player>.+) \(\D?(?P<starting_stack>[0-9.,]+) in chips\)')
     HOLE_DEALING = UNMATCHABLE_PATTERN
@@ -38,7 +38,7 @@ class CoinPokerParser(REParser):
     COMPLETION_BETTING_OR_RAISING = compile(
         (
             r'(?P<player>.+)'
-            r' :'
+            r':'
             r' (bets|raises|all-in(\(raise\))?)'
             r' \D?(?P<amount>[0-9.,]+)'
         ),
@@ -56,14 +56,13 @@ class CoinPokerParser(REParser):
     )
     VARIABLES = {
         'time': (DATETIME, parse_time),
-        'time_zone_abbreviation': (DATETIME, str),
         'day': (DATETIME, int),
         'month': (DATETIME, int),
         'year': (DATETIME, int),
         'hand': (compile(r'CoinPoker Hand #(?P<hand>\d+):'), int),
         'seat_count': (compile(r'(?P<seat_count>\d+)-max'), int),
         'table': (compile(r"Table: '(?P<table>.+?)' \d+-max"), str),
-        'currency_symbol': '₮',
+        'currency_symbol': (compile('₮'), str),
     }
     PLAYER_VARIABLES = {
         'winnings': (
@@ -80,11 +79,11 @@ class CoinPokerParser(REParser):
         ),
     }
 
-    def _get_completion_betting_or_raising_to_amount(
-            self,
-            bets: defaultdict[str, int],
-            player: str,
-            completion_betting_or_raising_amount: int,
-            line: str,
-    ) -> int:
-        return bets[player] + completion_betting_or_raising_amount
+    # def _get_completion_betting_or_raising_to_amount(
+    #     self,
+    #     bets: defaultdict[str, int],
+    #     player: str,
+    #     completion_betting_or_raising_amount: int,
+    #     line: str,
+    # ) -> int:
+    #     return bets[player] + completion_betting_or_raising_amount

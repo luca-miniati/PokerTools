@@ -1,0 +1,39 @@
+CoinPoker Hand #342086278: Tournament #1405100, Bankroll Starter Freeroll, 20 x ₮0.50 tickets Hold'em No Limit (250/500 ante 63 play) 2025/12/10 11:24:08 GMT
+Table '1' 7-max Seat #1 is the button
+Seat 1: gcode772 (9443 in chips)
+Seat 2: TheBlindi (2544 in chips) is sitting out
+Seat 4: rickb315 (15368 in chips)
+Seat 5: SMOKING4I20 (29142 in chips)
+Seat 6: Flyeboys (11552 in chips)
+Seat 7: Kahn22 (5505 in chips)
+gcode772: posts the ante 63
+TheBlindi: posts the ante 63
+rickb315: posts the ante 63
+SMOKING4I20: posts the ante 63
+Flyeboys: posts the ante 63
+Kahn22: posts the ante 63
+TheBlindi: posts small blind 250
+rickb315: posts big blind 500
+*** HOLE CARDS ***
+SMOKING4I20: folds
+Flyeboys: folds
+Kahn22: folds
+gcode772: raises 500 to 1000
+TheBlindi: folds
+rickb315: folds
+gcode772 collected 2128 from pot
+gcode772: doesn't show hand
+*** SUMMARY ***
+Total pot 2128 | CC 0
+Board [ ]
+Game ended: 2025/12/10 11:24:27 GMT
+Seat 1: gcode772 (button) collected (2128)
+Seat 2: TheBlindi (small blind) folded before Flop
+Seat 4: rickb315 (big blind) folded before Flop
+Seat 5: SMOKING4I20 folded before Flop
+Seat 6: Flyeboys folded before Flop
+Seat 7: Kahn22 folded before Flop
+*** RNG ***
+cards: 5d 4h 5h Kh 3s Ah 5c 3h 9s 3d 9c Td Ks 8h 7h Jc Tc 4c 5s 6c Qd 7s Jh 6s Jd 2s Ac 8c Kd As Th 8d Ad Kc 2h 9h XX XX XX XX
+
+
