@@ -1,0 +1,48 @@
+CoinPoker Hand #343147959: Hold'em No Limit (0.01/0.02) 2025/12/12 09:25:54 GMT
+Table 'NL ₮2 IV' 7-max Seat #4 is the button
+Seat 1: Belgiandude (2.2 in chips)
+Seat 2: halooo (2.96 in chips)
+Seat 3: ketowas (2 in chips)
+Seat 4: 23409m (2.97 in chips)
+Seat 5: CPT3 (2.61 in chips)
+Seat 6: HarryPARK (2.99 in chips)
+Seat 7: nice27 (2 in chips) out of hand
+CPT3: posts small blind 0.01
+HarryPARK: posts big blind 0.02
+ketowas: posts big blind 0.02
+*** HOLE CARDS ***
+Dealt to 23409m [9s Jd]
+Belgiandude: raises 0.03 to 0.05
+halooo: calls 0.05
+ketowas: raises 0.1 to 0.15
+23409m: folds
+CPT3: folds
+HarryPARK: folds
+Belgiandude: raises 0.33 to 0.48
+halooo: folds
+ketowas: raises 1.85 and is all-in
+Belgiandude: calls 1.52
+*** FLOP *** [Td 9h Jh]
+*** TURN *** [Td 9h Jh] [3d]
+*** RIVER *** [Td 9h Jh 3d] [5h]
+*** SHOW DOWN ***
+ketowas: shows [Qh Kd] (a straight, King high)
+Belgiandude: shows [As Ks] (Ace high)
+ketowas collected 3.88 from pot
+*** SUMMARY ***
+Total pot 4.08 | CC 0.2
+Board [ Td 9h Jh 3d 5h ]
+Game ended: 2025/12/12 09:26:46 GMT
+Seat 1: Belgiandude showed [As Ks]
+Seat 2: halooo folded before Flop
+Seat 3: ketowas showed [Qh Kd] and won (3.88) with a straight, King high
+Seat 4: 23409m (button) folded before Flop (didn't bet)
+Seat 5: CPT3 (small blind) folded before Flop
+Seat 6: HarryPARK (big blind) folded before Flop
+Seat 7: nice27 folded before Flop (didn't bet)
+*** RNG ***
+phrase:  TN   o  |      A U !  <   +    
+cards: (Td) (9h) (Jh) (3d) (5h) 8s 2d Th 5c Ac 4d Qc 6s 2c 9c Js 5d 4h 7s 3s Ah Qd 4s 4c 5s 2s 7c 6c 8d 6d 2h Kh 9d Ts 7h Qs XX XX XX XX
+player_cards: 3 9s Jd
+
+
