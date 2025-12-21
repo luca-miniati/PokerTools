@@ -1,0 +1,50 @@
+CoinPoker Hand #347850195: Tournament #1410710, Bankroll Starter Freeroll, 5 x ₮2 tickets Hold'em No Limit (400/800 ante 100 play) 2025/12/20 18:35:11 GMT
+Table '52' 7-max Seat #3 is the button
+Seat 1: Slicesofmeat (50467 in chips)
+Seat 2: C0elho (33957 in chips)
+Seat 3: Ksions (13613 in chips)
+Seat 4: Sapamhelen (35015 in chips) is sitting out
+Seat 5: marcuschess (28327 in chips)
+Seat 6: strelec (220 in chips) is sitting out
+Seat 7: 23409m (43276 in chips)
+Slicesofmeat: posts the ante 100
+C0elho: posts the ante 100
+Ksions: posts the ante 100
+Sapamhelen: posts the ante 100
+marcuschess: posts the ante 100
+strelec: posts the ante 100
+23409m: posts the ante 100
+Sapamhelen: posts small blind 400
+marcuschess: posts big blind 800
+*** HOLE CARDS ***
+Dealt to 23409m [Jh 8c]
+strelec: folds
+23409m: folds
+Slicesofmeat: raises 920 to 1720
+C0elho has timed out
+C0elho: folds
+Ksions has timed out
+Ksions activated time-bank (30 seconds)
+Ksions: folds
+Sapamhelen: folds
+marcuschess: folds
+Slicesofmeat collected 3620 from pot
+Slicesofmeat: doesn't show hand
+*** SUMMARY ***
+Total pot 3620 | CC 0
+Board [ ]
+Game ended: 2025/12/20 18:35:42 GMT
+Seat 1: Slicesofmeat collected (3620)
+Seat 2: C0elho folded before Flop
+Seat 3: Ksions (button) folded before Flop
+Seat 4: Sapamhelen (small blind) folded before Flop
+Seat 5: marcuschess (big blind) folded before Flop
+Seat 6: strelec folded before Flop
+Seat 7: 23409m folded before Flop
+*** RNG ***
+phrase: R    s  l_dy) ~  b  l    v  b _i
+cards: 5c 4d Qs Qh 9d 8h 4s 4h 2h 5s 6s 4c 9s 6d 6h 8d 7h 3d Ad 6c Th 5d Td Js 7d Kd Kc Tc As 3h Qc Kh 8s 7c XX XX XX XX
+player_cards: 6 Jh 8c
+
+
+

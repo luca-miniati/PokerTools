@@ -1,0 +1,54 @@
+CoinPoker Hand #347857808: Tournament #1410710, Bankroll Starter Freeroll, 5 x ₮2 tickets Hold'em No Limit (800/1600 ante 200 play) 2025/12/20 18:46:53 GMT
+Table '52' 7-max Seat #2 is the button
+Seat 1: Slicesofmeat (78503 in chips)
+Seat 2: Glamour1206 (87701 in chips)
+Seat 3: Ksions (24547 in chips)
+Seat 4: Sapamhelen (27815 in chips) is sitting out
+Seat 5: PokerJoker316 (109806 in chips)
+Seat 7: 23409m (32176 in chips)
+Slicesofmeat: posts the ante 200
+Glamour1206: posts the ante 200
+Ksions: posts the ante 200
+Sapamhelen: posts the ante 200
+PokerJoker316: posts the ante 200
+23409m: posts the ante 200
+Ksions: posts small blind 800
+Sapamhelen: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to 23409m [4c 8c]
+PokerJoker316: calls 1600
+23409m: folds
+Slicesofmeat: raises 2400 to 4000
+Glamour1206: folds
+Ksions: folds
+Sapamhelen: folds
+PokerJoker316: calls 2400
+*** FLOP *** [9s 5s 9d]
+PokerJoker316: checks
+Slicesofmeat: checks
+*** TURN *** [9s 5s 9d] [Ts]
+PokerJoker316: bets 5800
+Slicesofmeat: calls 5800
+*** RIVER *** [9s 5s 9d Ts] [Ah]
+PokerJoker316: bets 99806 and is all-in
+Slicesofmeat: folds
+Uncalled bet (99806) returned to PokerJoker316
+PokerJoker316 collected 23200 from pot
+PokerJoker316: doesn't show hand
+*** SUMMARY ***
+Total pot 23200 | CC 0
+Board [ 9s 5s 9d Ts Ah ]
+Game ended: 2025/12/20 18:47:31 GMT
+Seat 1: Slicesofmeat folded on the River
+Seat 2: Glamour1206 (button) folded before Flop
+Seat 3: Ksions (small blind) folded before Flop
+Seat 4: Sapamhelen (big blind) folded before Flop
+Seat 5: PokerJoker316 collected (23200)
+Seat 7: 23409m folded before Flop
+*** RNG ***
+phrase:  ~3   vB   wKx+U  Q  ?^   w   |.
+cards: (9s) (5s) (9d) (Ts) (Ah) Qs 7h 5c Ac Ks Kh 7s Jc Td 4d 6h Qc Js Ad Kd 9c 8s 2d 5d 4h Tc 6d 7d Qh As 7c 5h 4s 2c 9h 8d XX XX XX XX
+player_cards: 6 4c 8c
+
+
+

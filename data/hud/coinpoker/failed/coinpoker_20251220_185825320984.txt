@@ -1,0 +1,48 @@
+CoinPoker Hand #347847353: Tournament #1410710, Bankroll Starter Freeroll, 5 x ₮2 tickets Hold'em No Limit (350/700 ante 88 play) 2025/12/20 18:30:38 GMT
+Table '52' 7-max Seat #2 is the button
+Seat 1: Slicesofmeat (38716 in chips)
+Seat 3: Ksions (16703 in chips)
+Seat 4: IGNISDEUS (547 in chips) is sitting out
+Seat 5: shadow77 (25779 in chips)
+Seat 6: KRPHS99 (924 in chips) is sitting out
+Seat 7: 23409m (18676 in chips)
+Slicesofmeat: posts the ante 88
+Ksions: posts the ante 88
+IGNISDEUS: posts the ante 88
+shadow77: posts the ante 88
+KRPHS99: posts the ante 88
+23409m: posts the ante 88
+Ksions: posts small blind 350
+IGNISDEUS: posts big blind 459 and is all-in
+*** HOLE CARDS ***
+Dealt to 23409m [6d Kh]
+shadow77: folds
+KRPHS99: folds
+23409m: folds
+Slicesofmeat: raises 700 to 1400
+Ksions: folds
+Uncalled bet (941) returned to Slicesofmeat
+*** FLOP *** [3d Js Jc]
+*** TURN *** [3d Js Jc] [9h]
+*** RIVER *** [3d Js Jc 9h] [8h]
+*** SHOW DOWN ***
+Slicesofmeat: shows [6c 8c] (two pairs, Jacks and Eights)
+IGNISDEUS: shows [9s 2h] (two pairs, Jacks and Nines)
+IGNISDEUS collected 1796 from pot
+*** SUMMARY ***
+Total pot 1796 | CC 0
+Board [ 3d Js Jc 9h 8h ]
+Game ended: 2025/12/20 18:30:57 GMT
+Seat 1: Slicesofmeat showed [6c 8c]
+Seat 3: Ksions (small blind) folded before Flop
+Seat 4: IGNISDEUS (big blind) showed [9s 2h] and won (1796) with two pairs, Jacks and Nines
+Seat 5: shadow77 folded before Flop
+Seat 6: KRPHS99 folded before Flop
+Seat 7: 23409m folded before Flop
+*** RNG ***
+phrase: C        "]1  J  U t     =2  * G
+cards: (3d) (Js) (Jc) (9h) (8h) 5h 7c 2d Ks 8d Qh 4s 3c Qs 8s Ah 5s 7d Td Tc Th Ac 4d Ad Kd Qd 6h 5d 5c 4h 7h 9d Qc 3s As 9c XX XX XX XX
+player_cards: 6 6d Kh
+
+
+

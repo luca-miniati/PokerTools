@@ -1,0 +1,48 @@
+CoinPoker Hand #347858588: Tournament #1410710, Bankroll Starter Freeroll, 5 x ₮2 tickets Hold'em No Limit (800/1600 ante 200 play) 2025/12/20 18:47:54 GMT
+Table '52' 7-max Seat #4 is the button
+Seat 1: Slicesofmeat (73503 in chips)
+Seat 2: Glamour1206 (87301 in chips)
+Seat 3: Ksions (23347 in chips)
+Seat 4: Sapamhelen (25015 in chips) is sitting out
+Seat 5: PokerJoker316 (119606 in chips)
+Seat 7: 23409m (31776 in chips)
+Slicesofmeat: posts the ante 200
+Glamour1206: posts the ante 200
+Ksions: posts the ante 200
+Sapamhelen: posts the ante 200
+PokerJoker316: posts the ante 200
+23409m: posts the ante 200
+PokerJoker316: posts small blind 800
+23409m: posts big blind 1600
+*** HOLE CARDS ***
+Dealt to 23409m [Qs 7c]
+Slicesofmeat: raises 2400 to 4000
+Glamour1206: folds
+Ksions: folds
+Sapamhelen: folds
+PokerJoker316: calls 3200
+23409m: folds
+*** FLOP *** [8d Jd Ts]
+PokerJoker316: checks
+Slicesofmeat: bets 2400
+PokerJoker316: folds
+Uncalled bet (2400) returned to Slicesofmeat
+Slicesofmeat collected 10800 from pot
+Slicesofmeat: doesn't show hand
+*** SUMMARY ***
+Total pot 10800 | CC 0
+Board [ 8d Jd Ts ]
+Game ended: 2025/12/20 18:48:20 GMT
+Seat 1: Slicesofmeat collected (10800)
+Seat 2: Glamour1206 folded before Flop
+Seat 3: Ksions folded before Flop
+Seat 4: Sapamhelen (button) folded before Flop
+Seat 5: PokerJoker316 (small blind) folded on the Flop
+Seat 7: 23409m (big blind) folded before Flop
+*** RNG ***
+phrase:   Js}  Y  7" S\        <  V   a4
+cards: (8d) (Jd) (Ts) 6h Kc Jh Kh Ad 3h Tc 2h 5c Kd 3d 4d 5d Td 5s 9h 2c 2d 4s Jc 2s 9c Ks 4h 9d Js 7h 5h 7s Th 4c 8c 6s XX XX XX XX
+player_cards: 6 Qs 7c
+
+
+

@@ -1,0 +1,56 @@
+CoinPoker Hand #347839780: Tournament #1410710, Bankroll Starter Freeroll, 5 x ₮2 tickets Hold'em No Limit (140/280 ante 35 play) 2025/12/20 18:16:48 GMT
+Table '52' 7-max Seat #6 is the button
+Seat 1: Rougie (22412 in chips)
+Seat 2: estezbzez (1998 in chips) is sitting out
+Seat 3: Ksions (8945 in chips)
+Seat 4: loopy10 (8081 in chips)
+Seat 5: shadow77 (9442 in chips)
+Seat 6: TheOGMasterD (10798 in chips)
+Rougie: posts the ante 35
+estezbzez: posts the ante 35
+Ksions: posts the ante 35
+loopy10: posts the ante 35
+shadow77: posts the ante 35
+TheOGMasterD: posts the ante 35
+Rougie: posts big blind 280
+*** HOLE CARDS ***
+estezbzez: folds
+Ksions: folds
+loopy10: calls 280
+shadow77: folds
+TheOGMasterD: calls 280
+Rougie: checks
+*** FLOP *** [7d 2d 5s]
+Rougie: bets 280
+loopy10: calls 280
+TheOGMasterD: calls 280
+*** TURN *** [7d 2d 5s] [9c]
+Rougie: bets 280
+loopy10: calls 280
+TheOGMasterD: raises 280 to 560
+Rougie: calls 280
+loopy10: calls 280
+*** RIVER *** [7d 2d 5s 9c] [Qh]
+Rougie: checks
+loopy10: checks
+TheOGMasterD: bets 3570
+Rougie: folds
+loopy10: folds
+Uncalled bet (3570) returned to TheOGMasterD
+TheOGMasterD collected 3570 from pot
+TheOGMasterD: doesn't show hand
+*** SUMMARY ***
+Total pot 3570 | CC 0
+Board [ 7d 2d 5s 9c Qh ]
+Game ended: 2025/12/20 18:17:43 GMT
+Seat 1: Rougie (big blind) folded on the River
+Seat 2: estezbzez folded before Flop
+Seat 3: Ksions folded before Flop
+Seat 4: loopy10 folded on the River
+Seat 5: shadow77 folded before Flop
+Seat 6: TheOGMasterD (button) collected (3570)
+*** RNG ***
+cards: (7d) (2d) (5s) (9c) (Qh) 9h 4d Tc 3c 8h Ks 8d Qs Ad 5h 8s 3h 2s 5d Jd Jh Kc Jc 7h Js Kh 6d 4h 2h 2c 4s Ts 9d 7s 6c Qd XX XX XX XX
+
+
+

@@ -1,0 +1,44 @@
+CoinPoker Hand #347844952: Tournament #1410710, Bankroll Starter Freeroll, 5 x ₮2 tickets Hold'em No Limit (250/500 ante 63 play) 2025/12/20 18:26:01 GMT
+Table '52' 7-max Seat #5 is the button
+Seat 1: FelixTheCat (1424 in chips) is sitting out
+Seat 2: estezbzez (329 in chips) is sitting out
+Seat 3: Ksions (22026 in chips)
+Seat 4: IGNISDEUS (2161 in chips) is sitting out
+Seat 5: shadow77 (22518 in chips)
+Seat 7: 23409m (11696 in chips)
+FelixTheCat: posts the ante 63
+estezbzez: posts the ante 63
+Ksions: posts the ante 63
+IGNISDEUS: posts the ante 63
+shadow77: posts the ante 63
+23409m: posts the ante 63
+23409m: posts small blind 250
+FelixTheCat: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 23409m [Kh Kc]
+estezbzez: folds
+Ksions: raises 600 to 1100
+IGNISDEUS: folds
+shadow77: folds
+23409m: raises 2900 to 4000
+FelixTheCat: folds
+Ksions: folds
+23409m collected 5978 from pot
+23409m: doesn't show hand
+*** SUMMARY ***
+Total pot 5978 | CC 0
+Board [ ]
+Game ended: 2025/12/20 18:26:26 GMT
+Seat 1: FelixTheCat (big blind) folded before Flop
+Seat 2: estezbzez folded before Flop
+Seat 3: Ksions folded before Flop
+Seat 4: IGNISDEUS folded before Flop
+Seat 5: shadow77 (button) folded before Flop
+Seat 7: 23409m (small blind) collected (5978)
+*** RNG ***
+phrase:   ; X   % 7  af `h = eD @@<     
+cards: 6s 5c 8s Kd Td 4c 9s Jd 5d 7s 8d 9h 4h 5h 2h 7c 8c Ac Ks 6d 4s 2s 9c Ts Qc Tc 4d 3s As 6c Jh Qs Js 2d 9d Jc XX XX XX XX
+player_cards: 6 Kh Kc
+
+
+

@@ -1,0 +1,54 @@
+CoinPoker Hand #347847835: Tournament #1410710, Bankroll Starter Freeroll, 5 x ₮2 tickets Hold'em No Limit (350/700 ante 88 play) 2025/12/20 18:31:28 GMT
+Table '52' 7-max Seat #4 is the button
+Seat 1: Slicesofmeat (38081 in chips)
+Seat 2: C0elho (33580 in chips)
+Seat 3: Ksions (16177 in chips)
+Seat 4: IGNISDEUS (1358 in chips) is sitting out
+Seat 5: shadow77 (7103 in chips)
+Seat 6: KRPHS99 (748 in chips) is sitting out
+Seat 7: 23409m (37878 in chips)
+Slicesofmeat: posts the ante 88
+C0elho: posts the ante 88
+Ksions: posts the ante 88
+IGNISDEUS: posts the ante 88
+shadow77: posts the ante 88
+KRPHS99: posts the ante 88
+23409m: posts the ante 88
+shadow77: posts small blind 350
+KRPHS99: posts big blind 660 and is all-in
+*** HOLE CARDS ***
+Dealt to 23409m [2s 4c]
+23409m: folds
+Slicesofmeat: folds
+C0elho: raises 700 to 1400
+Ksions: folds
+IGNISDEUS: folds
+shadow77: raises 6665 and is all-in
+C0elho: calls 5615
+*** FLOP *** [8s 5h 5s]
+*** TURN *** [8s 5h 5s] [6s]
+*** RIVER *** [8s 5h 5s 6s] [Js]
+*** SHOW DOWN ***
+shadow77: shows [Kd Tc] (a pair of Fives)
+C0elho: shows [Ks Kc] (a flush, King high)
+C0elho collected 12710 from side-pot 1
+KRPHS99: shows [7s 3h] (a flush, Jack high)
+C0elho collected 2596 from pot
+*** SUMMARY ***
+Total pot 15306 | CC 0
+Board [ 8s 5h 5s 6s Js ]
+Game ended: 2025/12/20 18:31:55 GMT
+Seat 1: Slicesofmeat folded before Flop
+Seat 2: C0elho showed [Ks Kc] and won (15306) with a flush, King high
+Seat 3: Ksions folded before Flop
+Seat 4: IGNISDEUS (button) folded before Flop
+Seat 5: shadow77 (small blind) showed [Kd Tc]
+Seat 6: KRPHS99 (big blind) showed [7s 3h]
+Seat 7: 23409m folded before Flop
+*** RNG ***
+phrase:   [ i$     (   Y'hR? b          
+cards: (8s) (5h) (5s) (6s) (Js) 6h Ts Ah 6c 4d Ad Jd As 7c 2d Qd 9s 5d 6d Jc 4s 5c 3d 7d Qh 3c Ac Th 3s 8c 2c Jh 9h 4h XX XX XX XX
+player_cards: 6 2s 4c
+
+
+

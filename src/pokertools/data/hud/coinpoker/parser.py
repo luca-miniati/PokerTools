@@ -1,10 +1,9 @@
 from re import compile, DOTALL, MULTILINE
-from typing import Callable, Generator
-from collections import defaultdict
 from dataclasses import dataclass
 from operator import add
-from pokerkit.notation import HandHistory, REParser
-from pokerkit.utilities import UNMATCHABLE_PATTERN, parse_time, parse_value
+from collections import defaultdict
+from pokerkit.notation import REParser
+from pokerkit.utilities import parse_time
 
 
 @dataclass
@@ -79,3 +78,12 @@ class CoinPokerParser(REParser):
             add,
         ),
     }
+    
+    def _get_completion_betting_or_raising_to_amount(
+        self,
+        bets: defaultdict[str, int],
+        player: str,
+        completion_betting_or_raising_amount: int,
+        line: str,
+    ) -> int:
+        return completion_betting_or_raising_amount

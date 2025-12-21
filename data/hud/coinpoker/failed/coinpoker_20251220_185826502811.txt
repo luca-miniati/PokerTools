@@ -1,0 +1,54 @@
+CoinPoker Hand #347842216: Tournament #1410710, Bankroll Starter Freeroll, 5 x ₮2 tickets Hold'em No Limit (200/400 ante 50 play) 2025/12/20 18:21:05 GMT
+Table '52' 7-max Seat #4 is the button
+Seat 1: Rougie (22602 in chips)
+Seat 2: estezbzez (1368 in chips) is sitting out
+Seat 3: Ksions (14246 in chips)
+Seat 4: IGNISDEUS (3300 in chips) out of hand
+Seat 5: shadow77 (10132 in chips)
+Seat 6: TheOGMasterD (9168 in chips)
+Seat 7: 23409m (13235 in chips)
+Rougie: posts the ante 50
+estezbzez: posts the ante 50
+Ksions: posts the ante 50
+shadow77: posts the ante 50
+TheOGMasterD: posts the ante 50
+23409m: posts the ante 50
+shadow77: posts small blind 200
+TheOGMasterD: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 23409m [Kd 2s]
+23409m: folds
+Rougie: raises 800 to 1200
+estezbzez: folds
+Ksions: folds
+shadow77: folds
+TheOGMasterD: calls 800
+*** FLOP *** [8d Qd Jc]
+TheOGMasterD: bets 2924
+Rougie: raises 2924 to 5848
+TheOGMasterD: raises 4994 and is all-in
+Rougie: calls 2070
+*** TURN *** [8d Qd Jc] [Th]
+*** RIVER *** [8d Qd Jc Th] [7d]
+*** SHOW DOWN ***
+TheOGMasterD: shows [8h Jd] (two pairs, Jacks and Eights)
+Rougie: shows [Qh As] (a pair of Queens)
+TheOGMasterD collected 18736 from pot
+*** SUMMARY ***
+Total pot 18736 | CC 0
+Board [ 8d Qd Jc Th 7d ]
+Game ended: 2025/12/20 18:21:48 GMT
+Seat 1: Rougie showed [Qh As]
+Seat 2: estezbzez folded before Flop
+Seat 3: Ksions folded before Flop
+Seat 4: IGNISDEUS (button) folded before Flop (didn't bet)
+Seat 5: shadow77 (small blind) folded before Flop
+Seat 6: TheOGMasterD (big blind) showed [8h Jd] and won (18736) with two pairs, Jacks and Eights
+Seat 7: 23409m folded before Flop
+*** RNG ***
+phrase: A    |  !|     @   w T        * 
+cards: (8d) (Qd) (Jc) (Th) (7d) Td Qs 5h 6h 4s 4d 7s 3d Js 2c 2d 7h Ad 5d 5c Ac 6d 6c 7c 2h 4c Ts 8s 8c 9c Kh 9s Qc 3c Kc 5s XX XX XX XX
+player_cards: 6 Kd 2s
+
+
+
