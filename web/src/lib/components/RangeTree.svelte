@@ -29,19 +29,19 @@
 <ul>
     {#each nodes as node}
         <li>
-            <div class="node" on:click={() => select(node)}>
+            <button class="node" on:click={() => select(node)}>
                 {#if expandedNodes.has(node) && !node.rangeKey}
-                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="size-6">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor">
                         <path strokeLinecap="round" strokeLinejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
                     </svg>
                 {:else if !expandedNodes.has(node) && !node.rangeKey}
-                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="size-6">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor">
                         <path strokeLinecap="round" strokeLinejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" />
                     </svg>
                 {/if}
                 
                 <p>{node.label}</p>
-            </div>
+            </button>
 
             {#if node.children && expandedNodes.has(node)}
                 <RangeTree nodes={node.children} />
@@ -67,6 +67,9 @@
         align-items: center;
         padding: 0.0rem 1.0rem;
         color: var(--fg);
+        background: none;
+        border: none;
+        width: 100%;
     }
 
     .node > p {
@@ -75,17 +78,5 @@
 
     .node:hover {
         background: var(--bg-muted);
-    }
-
-    button {
-        cursor: pointer;
-        border: none;
-        background: none;
-        padding: 0;
-        display: block;
-    }
-
-    button:hover {
-        color: red;
     }
 </style>

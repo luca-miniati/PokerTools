@@ -84,7 +84,7 @@ export class Range {
     }
 
     name() {
-        return this.position + ' ' + this.action + ' ' + this.stackSize
+        return this.stackSize + ' ' + this.position + ' ' + this.action
     }
 
     get(hand: string) {
