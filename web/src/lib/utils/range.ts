@@ -16,13 +16,13 @@ export type HandAction = {
 }
 
 const RANGES = {
-  sb_rfi_30bb: () => import('$lib/assets/ranges/sb_rfi_30bb.toml?raw'),
   utg_rfi_30bb: () => import('$lib/assets/ranges/utg_rfi_30bb.toml?raw'),
   utg1_rfi_30bb: () => import('$lib/assets/ranges/utg1_rfi_30bb.toml?raw'),
   mp_rfi_30bb: () => import('$lib/assets/ranges/mp_rfi_30bb.toml?raw'),
   hj_rfi_30bb: () => import('$lib/assets/ranges/hj_rfi_30bb.toml?raw'),
   co_rfi_30bb: () => import('$lib/assets/ranges/co_rfi_30bb.toml?raw'),
   btn_rfi_30bb: () => import('$lib/assets/ranges/btn_rfi_30bb.toml?raw'),
+  sb_rfi_30bb: () => import('$lib/assets/ranges/sb_rfi_30bb.toml?raw'),
 };
 
 export const Ranges = Object.keys(RANGES);

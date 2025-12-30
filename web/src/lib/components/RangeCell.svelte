@@ -50,8 +50,8 @@
 <style>
   .cell {
     position: relative;
-    width: 70px;
-    height: 55px;
+    width: 100%;
+    height: 100%;
     font-family: 'Fira Code', monospace;
     display: flex;
     flex-direction: column;
