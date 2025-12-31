@@ -1,4 +1,6 @@
-export const rangeTree = [
+import type { RangeTreeNode } from "./RangeTree.svelte";
+
+export const rangeTree: RangeTreeNode[] = [
     {
         label: '30bb',
         children: [
@@ -68,4 +70,3 @@ export const rangeTree = [
         ]
     },
 ]
-

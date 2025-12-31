@@ -1,4 +1,3 @@
-import fs from 'fs';
 import toml from 'toml';
 
 export type Suit = 'c' | 'd' | 'h' | 's';
@@ -25,6 +24,7 @@ const RANGES = {
   sb_rfi_30bb: () => import('$lib/assets/ranges/sb_rfi_30bb.toml?raw'),
 };
 
+export type RangeKey = keyof typeof RANGES;
 export const Ranges = Object.keys(RANGES);
 export const Positions = [
     'SB',
@@ -44,7 +44,7 @@ export const StackSizes = [
 ];
 
 
-export class Range {
+export class PokerRange {
     position: string;
     action: string;
     stackSize: string;
@@ -71,11 +71,11 @@ export class Range {
         );
     }
 
-    static async create(name: keyof typeof RANGES): Promise<Range> {
+    static async create(name: RangeKey): Promise<PokerRange> {
         const module = await RANGES[name]();
         const text = module.default;
         const data = toml.parse(text) as Record<string, any>;
-        return new Range(
+        return new PokerRange(
             data['meta']['position'],
             data['meta']['action'],
             data['meta']['stack'],
