@@ -1,23 +1,22 @@
 <script lang="ts">
     import RangeCell from './RangeCell.svelte';
     import { RANKS } from '$lib/utils/range';
-    import type { Range } from '$lib/utils/range';
-    import { selectedRange } from '$lib/stores/rangeStore';
+    import type { PokerRange } from '$lib/utils/range';
+
+    export let range: PokerRange;
 </script>
 
-{#if $selectedRange}
-    <div class="grid">
-        {#each RANKS as row}
-            {#each RANKS as col}
-                <RangeCell
-                    {row}
-                    {col}
-                    range={$selectedRange}
-                />
-            {/each}
+<div class="grid">
+    {#each RANKS as row}
+        {#each RANKS as col}
+            <RangeCell
+                {row}
+                {col}
+                {range}
+            />
         {/each}
-    </div>
-{/if}
+    {/each}
+</div>
 
 <style>
     .grid {

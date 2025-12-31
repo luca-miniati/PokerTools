@@ -1,10 +1,10 @@
 <script lang="ts">
-  import type { HandAction, Rank } from '$lib/utils/range';
+  import type { HandAction, PokerRange, Rank } from '$lib/utils/range';
   import { RANKS } from '$lib/utils/range';
 
   export let row: Rank;
   export let col: Rank;
-  export let range: Range;
+  export let range: PokerRange;
 
   function getHandLabel(row: Rank, col: Rank): string {
     const i = RANKS.indexOf(row);
@@ -76,13 +76,7 @@
     z-index: 1;
   }
 
-  .freq {
-    font-size: 9px;
-    opacity: 0.85;
-  }
-
   .inactive {
       color: #797593;
   }
 </style>
-

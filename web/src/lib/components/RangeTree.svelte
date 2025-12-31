@@ -1,14 +1,24 @@
+<script context="module" lang="ts">
+    import type { RangeKey } from "$lib/utils/range";
+
+    export type RangeTreeNode = {
+        label: string;
+        rangeKey?: RangeKey;
+        children?: RangeTreeNode[];
+    }
+</script>
+
 <script lang="ts">
     import RangeTree from './RangeTree.svelte'
     import { selectedRange } from '$lib/stores/rangeStore'
-    import { Range } from '$lib/utils/range'
+    import { PokerRange } from '$lib/utils/range'
 
-    export let nodes = []
+    export let nodes: RangeTreeNode[] = []
 
     // Track which nodes are expanded
-    let expandedNodes: Set<any> = new Set()
+    let expandedNodes: Set<RangeTreeNode> = new Set()
 
-    async function select(node) {
+    async function select(node: RangeTreeNode) {
         console.log(node.rangeKey)
         if (!node.rangeKey) {
             if (expandedNodes.has(node)) {
@@ -21,7 +31,7 @@
         }
 
         selectedRange.set(null)
-        const range = await Range.create(node.rangeKey)
+        const range = await PokerRange.create(node.rangeKey)
         selectedRange.set(range)
     }
 </script>
@@ -31,12 +41,12 @@
         <li>
             <button class="node" on:click={() => select(node)}>
                 {#if expandedNodes.has(node) && !node.rangeKey}
-                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor">
-                        <path strokeLinecap="round" strokeLinejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width={1.5} stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5" />
                     </svg>
                 {:else if !expandedNodes.has(node) && !node.rangeKey}
-                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor">
-                        <path strokeLinecap="round" strokeLinejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" />
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width={1.5} stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" />
                     </svg>
                 {/if}
                 
