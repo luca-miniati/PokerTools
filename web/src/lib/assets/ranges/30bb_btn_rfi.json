@@ -1,0 +1,13 @@
+{
+    "name": "30bb btn rfi",
+    "stack": 30,
+    "position": "btn",
+    "action": "rfi",
+    "range": [
+        {
+            "action": "call",
+            "amount": 0.5,
+            "hands": "A2s-A5s,A6s:0.5,K2s-K5s,K6s:0.5,K9s,Kts:0.5,Q2s-Q7s,Q8s-QJs:0.5,J2s-J3s:0.5,J4s-J8s,J9s:0.5"
+        }
+    ]
+}

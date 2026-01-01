@@ -11,15 +11,13 @@
 <script lang="ts">
     import RangeTree from './RangeTree.svelte'
     import { selectedRange } from '$lib/stores/rangeStore'
-    import { PokerRange } from '$lib/utils/range'
+    import { Range } from '$lib/utils/range'
 
     export let nodes: RangeTreeNode[] = []
 
-    // Track which nodes are expanded
     let expandedNodes: Set<RangeTreeNode> = new Set()
 
     async function select(node: RangeTreeNode) {
-        console.log(node.rangeKey)
         if (!node.rangeKey) {
             if (expandedNodes.has(node)) {
                 expandedNodes.delete(node)
@@ -31,7 +29,7 @@
         }
 
         selectedRange.set(null)
-        const range = await PokerRange.create(node.rangeKey)
+        const range = await Range.create(node.rangeKey)
         selectedRange.set(range)
     }
 </script>
@@ -48,9 +46,13 @@
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width={1.5} stroke="currentColor">
                         <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5" />
                     </svg>
+                {:else}
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor">
+                        <path strokeLinecap="round" strokeLinejoin="round" d="M5 12h14" />
+                    </svg>
                 {/if}
                 
-                <p>{node.label}</p>
+                {node.label}
             </button>
 
             {#if node.children && expandedNodes.has(node)}
@@ -64,26 +66,23 @@
     ul {
         margin: 0;
         list-style: none;
-        padding-left: 2.5rem;
+        padding-left: 1.0rem;
     }
 
     svg {
         width: 1rem;
         height: 1rem;
+        margin-right: 1rem;
     }
 
     .node {
+        padding: 0.5rem 1.0rem;
         display: flex;
         align-items: center;
-        padding: 0.0rem 1.0rem;
         color: var(--fg);
         background: none;
         border: none;
-        width: 100%;
-    }
-
-    .node > p {
-        margin-left: 1rem;
+        font-size: 16px;
     }
 
     .node:hover {

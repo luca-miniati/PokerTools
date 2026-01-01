@@ -45,7 +45,7 @@ freq = 1.0
 
 [[A6s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[A6s]]
@@ -55,22 +55,22 @@ freq = 0.5
 
 [[A5s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[A4s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[A3s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[A2s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[AKo]]
@@ -95,7 +95,7 @@ freq = 1.0
 
 [[KTs]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[KTs]]
@@ -105,12 +105,12 @@ freq = 1.0
 
 [[K9s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[K8s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[K8s]]
@@ -120,7 +120,7 @@ freq = 0.5
 
 [[K7s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[K7s]]
@@ -130,7 +130,7 @@ freq = 0.5
 
 [[K6s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[K6s]]
@@ -140,27 +140,27 @@ freq = 0.5
 
 [[K5s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[K4s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[K3s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[K2s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[AQo]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[AQo]]
@@ -170,7 +170,7 @@ freq = 0.5
 
 [[KQo]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[KQo]]
@@ -185,7 +185,7 @@ freq = 1.0
 
 [[QJs]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[QJs]]
@@ -195,7 +195,7 @@ freq = 0.5
 
 [[QTs]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[QTs]]
@@ -205,7 +205,7 @@ freq = 0.5
 
 [[Q9s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[Q9s]]
@@ -215,7 +215,7 @@ freq = 0.5
 
 [[Q8s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[Q8s]]
@@ -225,42 +225,42 @@ freq = 0.5
 
 [[Q7s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[Q6s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[Q5s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[Q4s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[Q3s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[Q2s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[AJo]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[KJo]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[KJo]]
@@ -270,7 +270,7 @@ freq = 0.5
 
 [[QJo]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[QJo]]
@@ -290,7 +290,7 @@ freq = 1.0
 
 [[J9s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[J9s]]
@@ -300,32 +300,32 @@ freq = 0.5
 
 [[J8s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[J7s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[J6s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[J5s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[J4s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[J3s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[J3s]]
@@ -335,7 +335,7 @@ freq = 0.5
 
 [[J2s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[J2s]]
@@ -345,12 +345,12 @@ freq = 0.5
 
 [[ATo]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[KTo]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[KTo]]
@@ -360,7 +360,7 @@ freq = 0.5
 
 [[QTo]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[QTo]]
@@ -370,7 +370,7 @@ freq = 0.5
 
 [[JTo]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[JTo]]
@@ -390,7 +390,7 @@ freq = 1.0
 
 [[T8s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[T8s]]
@@ -400,17 +400,17 @@ freq = 0.5
 
 [[T7s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[T6s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[T5s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[T4s]]
@@ -420,7 +420,7 @@ freq = 1.0
 
 [[T3s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[T3s]]
@@ -435,7 +435,7 @@ freq = 1.0
 
 [[A9o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[A9o]]
@@ -445,7 +445,7 @@ freq = 0.5
 
 [[K9o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[K9o]]
@@ -455,7 +455,7 @@ freq = 0.5
 
 [[Q9o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[Q9o]]
@@ -465,7 +465,7 @@ freq = 0.5
 
 [[J9o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[J9o]]
@@ -475,7 +475,7 @@ freq = 0.5
 
 [[T9o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[T9o]]
@@ -490,22 +490,22 @@ freq = 1.0
 
 [[98s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[97s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[96s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[95s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[95s]]
@@ -520,7 +520,7 @@ freq = 1.0
 
 [[93s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[93s]]
@@ -530,12 +530,12 @@ freq = 0.5
 
 [[92s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[A8o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[A8o]]
@@ -545,7 +545,7 @@ freq = 0.5
 
 [[K8o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[K8o]]
@@ -555,7 +555,7 @@ freq = 0.5
 
 [[Q8o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[Q8o]]
@@ -565,7 +565,7 @@ freq = 0.5
 
 [[J8o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[J8o]]
@@ -575,7 +575,7 @@ freq = 0.5
 
 [[T8o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[T8o]]
@@ -585,7 +585,7 @@ freq = 0.5
 
 [[98o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[98o]]
@@ -595,7 +595,7 @@ freq = 0.5
 
 [[88]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[88]]
@@ -605,7 +605,7 @@ freq = 0.5
 
 [[87s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[87s]]
@@ -615,7 +615,7 @@ freq = 0.5
 
 [[86s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[86s]]
@@ -625,7 +625,7 @@ freq = 0.5
 
 [[85s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[85s]]
@@ -640,17 +640,17 @@ freq = 1.0
 
 [[83s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[82s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[A7o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[A7o]]
@@ -660,7 +660,7 @@ freq = 0.5
 
 [[K7o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[K7o]]
@@ -670,7 +670,7 @@ freq = 0.5
 
 [[Q7o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[Q7o]]
@@ -685,7 +685,7 @@ freq = 1.0
 
 [[T7o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[T7o]]
@@ -695,7 +695,7 @@ freq = 0.5
 
 [[97o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[97o]]
@@ -705,7 +705,7 @@ freq = 0.5
 
 [[87o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[87o]]
@@ -715,7 +715,7 @@ freq = 0.5
 
 [[77]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[77]]
@@ -725,12 +725,12 @@ freq = 0.5
 
 [[76s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[75s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[75s]]
@@ -740,22 +740,22 @@ freq = 0.5
 
 [[74s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[73s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[72s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[A6o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[A6o]]
@@ -765,7 +765,7 @@ freq = 0.5
 
 [[K6o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[K6o]]
@@ -780,12 +780,12 @@ freq = 1.0
 
 [[J6o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[T6o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[T6o]]
@@ -795,22 +795,22 @@ freq = 0.5
 
 [[96o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[86o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[76o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[66]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[66]]
@@ -820,7 +820,7 @@ freq = 0.5
 
 [[65s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[65s]]
@@ -830,7 +830,7 @@ freq = 0.5
 
 [[64s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[64s]]
@@ -840,7 +840,7 @@ freq = 0.5
 
 [[63s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[63s]]
@@ -850,12 +850,12 @@ freq = 0.5
 
 [[62s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[A5o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[A5o]]
@@ -865,7 +865,7 @@ freq = 0.5
 
 [[K5o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[K5o]]
@@ -875,7 +875,7 @@ freq = 0.5
 
 [[Q5o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[Q5o]]
@@ -885,37 +885,37 @@ freq = 0.5
 
 [[J5o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[T5o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[95o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[85o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[75o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[65o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[55]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[55]]
@@ -925,7 +925,7 @@ freq = 0.5
 
 [[54s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[54s]]
@@ -935,7 +935,7 @@ freq = 0.5
 
 [[53s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[52s]]
@@ -945,7 +945,7 @@ freq = 1.0
 
 [[A4o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[A4o]]
@@ -955,7 +955,7 @@ freq = 0.5
 
 [[K4o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[K4o]]
@@ -965,22 +965,22 @@ freq = 0.5
 
 [[Q4o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[J4o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[T4o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[74o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[74o]]
@@ -990,17 +990,17 @@ freq = 0.5
 
 [[64o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[54o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[44]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[44]]
@@ -1010,7 +1010,7 @@ freq = 0.5
 
 [[43s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[43s]]
@@ -1020,12 +1020,12 @@ freq = 0.5
 
 [[42s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[A3o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 0.5
 
 [[A3o]]
@@ -1035,55 +1035,55 @@ freq = 0.5
 
 [[K3o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[Q3o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[J3o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[T3o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[33]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[32s]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[A2o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[K2o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[Q2o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[J2o]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0
 
 [[22]]
 action = "call"
-amount = 2.3
+amount = 0.5
 freq = 1.0

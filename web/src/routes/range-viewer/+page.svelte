@@ -1,52 +1,64 @@
 <script lang="ts">
-    import { PokerRange } from '$lib/utils/range';
-    import RangeGrid from '$lib/components/RangeGrid.svelte';
-    import RangeTree from '$lib/components/RangeTree.svelte';
-    import RangeInfo from '$lib/components/RangeInfo.svelte';
-    import { rangeTree } from '$lib/components/rangeTree'
-    import { selectedRange } from '$lib/stores/rangeStore'
-
+  import { selectedRange } from '$lib/stores/rangeStore';
+  import RangeGrid from '$lib/components/RangeGrid.svelte';
+  import RangeTree from '$lib/components/RangeTree.svelte';
+  import RangeInfo from '$lib/components/RangeInfo.svelte';
+  import { rangeTree } from '$lib/components/rangeTree';
+  import Navbar from '$lib/components/Navbar.svelte';
 </script>
 
-<main>
-    <div class="range-grid-info">
-        <div class="range-info">
-            <RangeInfo />
-        </div>
-        <div class="range-grid">
-            {#if $selectedRange}
+
+<main class="app">
+    <Navbar />
+    <section class="range-grid-info">
+        <RangeInfo />
+        {#if $selectedRange}
+            <div class="range-grid">
                 <RangeGrid range={$selectedRange} />
-            {/if}
-        </div>
-    </div>
-    <div class="range-tree">
-        <RangeTree nodes={rangeTree}/>
-    </div>
+            </div>
+        {/if}
+    </section>
+
+    <aside class="range-tree">
+        <RangeTree nodes={rangeTree} />
+    </aside>
 </main>
 
 <style>
-    main {
-        padding: 30px;
-        display: flex;
-        flex-direction: row;
-        box-sizing: border-box;
-        height: 100vh;
-    }
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
 
-    .range-grid-info {
-        flex: 0 0 80%;
-    }
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
 
-    .range-info {
-        height: 5%;
-    }
+.app {
+  display: flex;
+  height: 100vh;
+}
 
-    .range-grid {
-        height: 95%;
-    }
+.range-grid-info {
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    margin-top: 1.0rem;
+    margin-left: var(--nav-collapsed);
+    padding-left: 1.0rem;
+}
 
-    .range-tree {
-        flex: 0 0 20%;
-        overflow: scroll;
-    }
+.range-grid {
+    flex: 1 1 auto;
+}
+
+.range-tree {
+    flex: 0 0 15%;
+    padding-top: 1.0rem;
+    border-left: 1px solid var(--navbar-border);
+}
 </style>
